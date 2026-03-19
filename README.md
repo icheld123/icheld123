@@ -60,14 +60,6 @@ Profesional en Desarrollo de Software, apasionada por la tecnología, con experi
 | [Reto-KATA](https://github.com/icheld123/Reto-KATA) | Solución de retos de programación (KATA) | Java |
 | [junior_java_test](https://github.com/icheld123/junior_java_test) | Prueba técnica nivel junior | Java |
 
-### 🐍 Otros proyectos
-
-| Proyecto | Descripción | Tecnología |
-|----------|-------------|------------|
-| [databases_2](https://github.com/icheld123/databases_2) | Talleres del curso Bases de Datos 2 | Python |
-| [ticket_queue](https://github.com/icheld123/ticket_queue) | Sistema de cola de tickets | Python |
-| [Proyecto-rotonda-distrifoods](https://github.com/icheld123/Proyecto-rotonda-distrifoods) | Proyecto web para Distrifoods | WordPress |
-
 ---
 
 ## 📊 Estadísticas de GitHub

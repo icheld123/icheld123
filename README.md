@@ -37,22 +37,6 @@ Profesional en Desarrollo de Software, apasionada por la tecnología, con experi
 | [integra-servicios-front](https://github.com/icheld123/integra-servicios-front) | Proyecto frontend de integración de servicios | TypeScript · Angular |
 | [agenda_angular](https://github.com/icheld123/agenda_angular) | Agenda desarrollada con Angular | TypeScript · Angular |
 
-### 🎨 Desarrollo Web — HTML / CSS / JavaScript
-
-| Proyecto | Descripción | Tecnología |
-|----------|-------------|------------|
-| [Agenda_Diciembre](https://github.com/icheld123/Agenda_Diciembre) | Agenda digital — Diciembre | HTML · CSS |
-| [AgendaEgresados_Noviembre](https://github.com/icheld123/AgendaEgresados_Noviembre) | Agenda de egresados — Noviembre | HTML · CSS |
-| [Agenda-Octubre](https://github.com/icheld123/Agenda-Octubre) | Agenda de egresados — Octubre | HTML · CSS |
-| [agenda-septiembre](https://github.com/icheld123/agenda-septiembre) | Agenda de egresados — Septiembre | HTML · CSS |
-| [agenda-egresados-agosto](https://github.com/icheld123/agenda-egresados-agosto) | Agenda de egresados — Agosto | HTML · CSS |
-| [agenda-egresadosjulio-115](https://github.com/icheld123/agenda-egresadosjulio-115) | Agenda de egresados — Julio | HTML · CSS |
-| [AgendaUnad-115-junio](https://github.com/icheld123/AgendaUnad-115-junio) | Agenda UNAD grupo 115 — Junio | JavaScript · HTML |
-| [Agenda_Mayo2022](https://github.com/icheld123/Agenda_Mayo2022) | Agenda digital — Mayo 2022 | HTML · CSS |
-| [RevistaPug](https://github.com/icheld123/RevistaPug) | Revista digital con Pug | CSS · HTML |
-| [RevistaCool](https://github.com/icheld123/RevistaCool) | Revista digital | HTML · CSS |
-| [RevistaDigital](https://github.com/icheld123/RevistaDigital) | Revista digital | HTML · CSS |
-
 ### ☕ Desarrollo de Software — Java
 
 | Proyecto | Descripción | Tecnología |
